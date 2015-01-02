@@ -6,5 +6,5 @@
 
 <suppressions>
     <!-- Don't apply checkstyles to any xml files, test resources -->
-    <suppress files="\.xml$|src/test” checks=".*"/>
+    <suppress files="\.xml$|src/test" checks=".*"/>
 </suppressions>
